@@ -82,7 +82,7 @@ The dataset contains sales transaction records with the following fields:
 
 Example:
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
